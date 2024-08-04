@@ -22,7 +22,7 @@ If you find our work useful, please consider citing:
 
 -   [🚀 Installation & Usage](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-installation--usage)
 -   [📚 Description](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-description)
--   [🔬 Dataset of Predicted Structures of RBPs](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-dataset-of-predicted-structures-of-rbps)
+-   [🔬 Dataset of Predicted Structures of RBPs](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-dataset-of-predicted-structures-of-receptor-binding-proteins)
 -   [🧪 Reproducing Our Results](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-reproducing-our-results)
 -   [💻 Authors](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-authors)
 
