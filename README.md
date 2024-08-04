@@ -22,7 +22,7 @@ If you find our work useful, please consider citing:
 
 -   [🚀 Installation & Usage](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-installation--usage)
 -   [📚 Description](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-description)
--   [🔬 Dataset of Predicted Structures of RBPs](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-dataset-of-predicted-structures-of-rbps)
+-   [🔬 Dataset of Predicted Structures of RBPs](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-dataset-of-predicted-structures-of-receptor-binding-proteins)
 -   [🧪 Reproducing Our Results](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-reproducing-our-results)
 -   [💻 Authors](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-authors)
 
@@ -93,7 +93,7 @@ This script will output a gzip-compressed, serialized version of the trained mod
 <br><br>
 ↑ _Return to [Table of Contents](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#table-of-contents)._
 
-## 🔬 Dataset of Predicted Structures of RBPs
+## 🔬 Dataset of Predicted Structures of Receptor-Binding Proteins
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11202338.svg)](https://doi.org/10.5281/zenodo.11202338)
 
