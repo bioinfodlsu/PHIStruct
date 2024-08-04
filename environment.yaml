@@ -1,0 +1,27 @@
+name: PHIStruct
+channels:
+    - conda-forge
+dependencies:
+    - python=3.10
+    - pandas=1.5.1
+    - imbalanced-learn=0.11.0
+    - scikit-learn=1.2.2
+    - joblib=1.2.0
+    - pip=24.0
+    - git
+    - git-lfs
+    - wget
+    - pip:
+          - --extra-index-url https://download.pytorch.org/whl/cu117
+          - torch==1.13.1+cu117
+          - torchvision==0.14.1+cu117
+          - torchaudio==0.13.1
+          - pytorch-lightning==1.8.3
+          - wandb
+          - transformers==4.28.0
+          - easydict
+          - scipy
+          - peft
+          - lmdb
+          - torchmetrics==0.9.3
+          - fair-esm
