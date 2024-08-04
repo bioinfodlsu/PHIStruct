@@ -97,7 +97,7 @@ This script will output a gzip-compressed, serialized version of the trained mod
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11202338.svg)](https://doi.org/10.5281/zenodo.11202338)
 
-We also provide a [dataset of protein structures](https://doi.org/10.5281/zenodo.11202338), computationally predicted via [ColabFold](https://doi.org/10.1038/s41592-022-01488-1), of 19,081 non-redundant (i.e., with duplicates removed) receptor-binding proteins from 8,525 phages across 238 host genera. We identified these receptor-binding proteins based on GenBank annotations. For phage sequences without GenBank annotations, we employed a pipeline involving the viral protein library [PHROG](https://doi.org/10.1093/nargab/lqab067) and the machine learning model [PhageRBPdetect](https://doi.org/10.3390/v14061329).
+We also constructed a [dataset of protein structures](https://doi.org/10.5281/zenodo.11202338), computationally predicted via [ColabFold](https://doi.org/10.1038/s41592-022-01488-1), of 19,081 non-redundant (i.e., with duplicates removed) receptor-binding proteins from 8,525 phages across 238 host genera. We identified these receptor-binding proteins based on GenBank annotations. For phage sequences without GenBank annotations, we employed a pipeline that uses the viral protein library [PHROG](https://doi.org/10.1093/nargab/lqab067) and the machine learning model [PhageRBPdetect](https://doi.org/10.3390/v14061329).
 
 ## 🧪 Reproducing Our Results
 
