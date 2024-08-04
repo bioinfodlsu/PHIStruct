@@ -93,7 +93,7 @@ This script will output a gzip-compressed, serialized version of the trained mod
 <br><br>
 ↑ _Return to [Table of Contents](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#table-of-contents)._
 
-## 🔬 Dataset of Predicted Structures of RBPs
+## 🔬 Dataset of Predicted Structures of Receptor-Binding Proteins
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11202338.svg)](https://doi.org/10.5281/zenodo.11202338)
 
