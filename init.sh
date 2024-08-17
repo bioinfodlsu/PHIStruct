@@ -19,16 +19,12 @@ sed -i '6s/.*/from ..utils.lr_scheduler import Esm2LRScheduler/' ../model/abstra
 # Download Foldseek
 if [ "$1" = "avx2" ]; then
     wget https://mmseqs.com/foldseek/foldseek-linux-avx2.tar.gz
-    tar -xvzf foldseek-linux-avx2.tar.gz
 elif [ "$1" = "sse2" ]; then
     wget https://mmseqs.com/foldseek/foldseek-linux-sse2.tar.gz
-    tar -xvzf foldseek-linux-sse2.tar.gz
 elif [ "$1" = "arm64" ]; then
     wget https://mmseqs.com/foldseek/foldseek-linux-arm64.tar.gz
-    tar -xvzf foldseek-linux-arm64.tar.gz
 elif [ "$1" = "osx" ]; then
     wget https://mmseqs.com/foldseek/foldseek-osx-universal.tar.gz
-    tar -xvzf foldseek-osx-universal.tar.gz
 else
     echo "Unrecognized argument!"
     echo "Valid arguments are \"avx2\" (for Linux AVX2 build), \"sse2\" (for Linux SSE2 build), \"arm64\" (for Linux ARM64 build), and \"osx\" (for macOS)." 
@@ -37,17 +33,22 @@ else
     exit 1
 fi
 
+# Unzip the Foldseek tarball, then delete the tarball
+foldseek=awk -F"/" '{print $NF}' <<< $_ 
+tar -xvzf "$foldseek"
+rm -f "$foldseek"
+
 # Place the Foldseek binary in the bin folder of SaProt
 mv foldseek/bin/foldseek foldseek/bin/foldseek-bin
 mv foldseek/bin/foldseek-bin .
 rm -r foldseek
 mv foldseek-bin foldseek
-rm -f *.tar.gz
 
 # Download SaProt checkpoint (SaProt_650M_AF2)
 cd ../
 git lfs install
-echo "==============================================================================================="
-echo "Kindly wait for a few minutes while SaProt (around 5 GB) is being downloaded from Hugging Face."
-echo "==============================================================================================="
+echo "============================================================================================================"
+echo "NOTICE:"
+echo "This git clone step may take a few minutes since SaProt (around 5 GB) is being downloaded from Hugging Face."
+echo "============================================================================================================"
 git clone https://huggingface.co/westlake-repl/SaProt_650M_AF2
