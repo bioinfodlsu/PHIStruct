@@ -34,7 +34,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/bioinfodlsu/PHIStruct
-cd phage-host-prediction
+cd PHIStruct
 ```
 
 Create a virtual environment with the dependencies installed via Conda (we recommend using [Miniconda](https://docs.anaconda.com/free/miniconda/index.html)):
