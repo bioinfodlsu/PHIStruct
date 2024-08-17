@@ -2,7 +2,7 @@
 
 if [ -d SaProt ]; then
     echo "It seems that you have already run this installation script before. You only need to run this script once."
-    echo "However, if you want a fresh installation, please delete the SaProt directory, and run this script again."
+    echo "However, if you want a fresh installation, please delete the SaProt directory and run this script again."
     exit 1
 fi
 
