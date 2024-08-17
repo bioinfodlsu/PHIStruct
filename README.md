@@ -30,6 +30,13 @@ If you find our work useful, please consider citing:
 
 **Operating System**: Windows (using [WSL](https://learn.microsoft.com/en-us/windows/wsl/install)), Linux, or macOS
 
+Clone the repository:
+
+```
+git clone https://github.com/bioinfodlsu/PHIStruct
+cd phage-host-prediction
+```
+
 Create a virtual environment with the dependencies installed via Conda (we recommend using [Miniconda](https://docs.anaconda.com/free/miniconda/index.html)):
 
 ```
