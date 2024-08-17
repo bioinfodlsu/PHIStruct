@@ -34,7 +34,7 @@ else
 fi
 
 # Unzip the Foldseek tarball, and then delete the tarball
-foldseek=awk -F"/" '{print $NF}' <<< $_ 
+foldseek=$(awk -F"/" '{print $NF}' <<< "$_") 
 tar -xvzf "$foldseek"
 rm -f "$foldseek"
 
