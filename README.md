@@ -58,7 +58,7 @@ Depending on your operating system, run the correct installation command (refer 
 | Linux ARM64 Build | `dpkg --print-architecture` or `uname -m` | `bash init.sh arm64` |
 | macOS             | &ndash;                                   | `bash init.sh osx`   |
 
-**Note**: Running this script may take a while since it involves downloading a model (SaProt, around 5 GB) from Hugging Face.
+**Note**: Running the `init.sh` script may take a few minutes since it involves downloading a model (SaProt, around 5 GB) from Hugging Face.
 
 ### Running PHIStruct
 
