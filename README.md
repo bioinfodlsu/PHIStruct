@@ -20,7 +20,7 @@ If you find our work useful, please consider citing:
 
 ## Table of Contents
 
--   [🚀 Run on Google Colab](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#%EF%B8%8F-run-on-google-colab)
+-   [♾️ Run on Google Colab](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#%EF%B8%8F-run-on-google-colab)
 -   [🚀 Installation & Usage](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-installation--usage)
 -   [📚 Description](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-description)
 -   [🔬 Dataset of Predicted Structures of Receptor-Binding Proteins](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-dataset-of-predicted-structures-of-receptor-binding-proteins)
