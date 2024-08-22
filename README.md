@@ -240,6 +240,8 @@ conda activate PHIStruct-experiments
 
 This is a research project under the [Bioinformatics Laboratory](https://bioinfodlsu.com/), [Advanced Research Institute for Informatics, Computing and Networking](https://www.dlsu.edu.ph/research/research-centers/adric/), De La Salle University, Philippines.
 
+This research was partly funded by the Department of Science and Technology Philippine Council for Health Research and Development (DOST-PCHRD) under the e-Asia JRP 2021 Alternative therapeutics to tackle AMR pathogens (ATTACK-AMR) program.
+
 This research was supported with Cloud TPUs from [Google's TPU Research Cloud (TRC)](https://sites.research.google/trc/about/) and with computing resources from the [Machine Learning eResearch Platform (MLeRP)](https://docs.mlerp.cloud.edu.au/) of Monash University, University of Queensland, and Queensland Cyber Infrastructure Foundation Ltd.
 
 [badge-jupyter]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white
