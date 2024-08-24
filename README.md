@@ -99,7 +99,7 @@ This script will output a gzip-compressed, serialized version of the trained mod
 
 **Motivation:** Recent computational approaches for predicting phage-host interaction have explored the use of sequence-only protein language models to produce embeddings of phage proteins without manual feature engineering. However, these embeddings do not directly capture protein structure information and structure-informed signals related to host specificity.
 
-**Method:** In this paper, we present PHIStruct, a multilayer perceptron that takes in structure-aware embeddings of receptor-binding proteins, generated via the structure-aware protein language model SaProt, and then predicts the host from among the ESKAPEE genera.
+**Method:** We present PHIStruct, a multilayer perceptron that takes in structure-aware embeddings of receptor-binding proteins, generated via the structure-aware protein language model SaProt, and then predicts the host from among the ESKAPEE genera.
 
 **Results:** Compared against recent tools, PHIStruct exhibits the best balance of precision and recall, with the highest and most stable F1 score across a wide range of confidence thresholds and sequence similarity settings. The margin in performance is most pronounced when the sequence similarity between the training and test sets drops below 40%, wherein, at a relatively high-confidence threshold of above 50%, PHIStruct presents a 7% to 9% increase in class-averaged F1 over machine learning tools that do not directly incorporate structure information, as well as a 5% to 6% increase over BLASTp.
 <br><br>
