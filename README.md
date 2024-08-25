@@ -12,6 +12,8 @@
 
 **PHIStruct** is a phage-host interaction prediction tool that uses structure-aware protein embeddings to represent the receptor-binding proteins (RBPs) of phages. By incorporating structure information, it presents improvements over using sequence-only protein embeddings and feature-engineered sequence properties &mdash; especially for phages with RBPs that have low sequence similarity to those of known phages.
 
+**Preprint**: https://doi.org/10.1101/2024.08.24.609479
+
 If you find our work useful, please consider citing:
 
 ```
