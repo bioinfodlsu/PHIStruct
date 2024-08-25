@@ -15,7 +15,17 @@
 If you find our work useful, please consider citing:
 
 ```
-
+@article {PHIStruct,
+    author = {Gonzales, Mark  Edward M. and Ureta, Jennifer C. and Shrestha, Anish M.S.},
+    title = {PHIStruct: Improving phage-host interaction prediction at low sequence similarity settings using structure-aware protein embeddings},
+    elocation-id = {2024.08.24.609479},
+    year = {2024},
+    doi = {10.1101/2024.08.24.609479},
+    publisher = {Cold Spring Harbor Laboratory},
+    URL = {https://www.biorxiv.org/content/early/2024/08/24/2024.08.24.609479},
+    eprint = {https://www.biorxiv.org/content/early/2024/08/24/2024.08.24.609479.full.pdf},
+    journal = {bioRxiv}
+}
 ```
 
 ## Table of Contents
