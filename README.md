@@ -41,9 +41,9 @@ If you find our work useful, please consider citing:
 
 ## ♾️ Run on Google Colab
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://bit.ly/PHIStruct)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://phistruct.bioinfodlsu.com)
 
-**You can readily run PHIStruct on Google Colab, without the need to install anything on your own computer: [https://bit.ly/PHIStruct](https://bit.ly/PHIStruct)**
+**You can readily run PHIStruct on Google Colab, without the need to install anything on your own computer: [http://phistruct.bioinfodlsu.com](http://phistruct.bioinfodlsu.com)**
 
 ## 🚀 Installation & Usage
 
