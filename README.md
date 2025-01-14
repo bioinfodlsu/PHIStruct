@@ -27,7 +27,6 @@ If you find our work useful, please consider citing:
     issn = {1367-4811},
     doi = {10.1093/bioinformatics/btaf016},
     url = {https://doi.org/10.1093/bioinformatics/btaf016},
-    eprint = {https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaf016/61429295/btaf016.pdf},
 }
 ```
 
