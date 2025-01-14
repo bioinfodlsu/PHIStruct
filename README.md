@@ -12,21 +12,22 @@
 
 **PHIStruct** is a phage-host interaction prediction tool that uses structure-aware protein embeddings to represent the receptor-binding proteins (RBPs) of phages. By incorporating structure information, it presents improvements over using sequence-only protein embeddings and feature-engineered sequence properties &mdash; especially for phages with RBPs that have low sequence similarity to those of known phages.
 
-**Preprint**: https://doi.org/10.1101/2024.08.24.609479
+**Paper**: https://doi.org/10.1093/bioinformatics/btaf016
 
 If you find our work useful, please consider citing:
 
 ```
-@article {PHIStruct,
-    author = {Gonzales, Mark  Edward M. and Ureta, Jennifer C. and Shrestha, Anish M.S.},
+@article{10.1093/bioinformatics/btaf016,
+    author = {Gonzales, Mark Edward M and Ureta, Jennifer C and Shrestha, Anish M S},
     title = {PHIStruct: Improving phage-host interaction prediction at low sequence similarity settings using structure-aware protein embeddings},
-    elocation-id = {2024.08.24.609479},
-    year = {2024},
-    doi = {10.1101/2024.08.24.609479},
-    publisher = {Cold Spring Harbor Laboratory},
-    URL = {https://www.biorxiv.org/content/early/2024/08/24/2024.08.24.609479},
-    eprint = {https://www.biorxiv.org/content/early/2024/08/24/2024.08.24.609479.full.pdf},
-    journal = {bioRxiv}
+    journal = {Bioinformatics},
+    pages = {btaf016},
+    year = {2025},
+    month = {01},
+    issn = {1367-4811},
+    doi = {10.1093/bioinformatics/btaf016},
+    url = {https://doi.org/10.1093/bioinformatics/btaf016},
+    eprint = {https://academic.oup.com/bioinformatics/advance-article-pdf/doi/10.1093/bioinformatics/btaf016/61429295/btaf016.pdf},
 }
 ```
 
@@ -42,6 +43,7 @@ If you find our work useful, please consider citing:
 
 ## 📰 News
 
+- **02 Jan 2025** - Our [paper](https://doi.org/10.1093/bioinformatics/btaf016) was accepted for publication in _**Bioinformatics**_.
 - **06 Nov 2024** - We presented our work at the **2024 Australian Bioinformatics and Computational Biology Society (ABACBS) National Conference** in Sydney. Poster [here](https://drive.google.com/file/d/1_IEL9WibxHFAjiMW-UmLa2X7G5Kvq4WQ/view?usp=sharing).
 
 ## ♾️ Run on Google Colab
