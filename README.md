@@ -30,7 +30,7 @@ If you find our work useful, please consider citing:
 }
 ```
 
-You can also find PHIStruct on [bio.tools](https://bio.tools/phiembed).
+You can also find PHIStruct on [bio.tools](https://bio.tools/phistruct).
 
 ## Table of Contents
 
