@@ -26,7 +26,7 @@ If you find our work useful, please consider citing:
     month = {01},
     issn = {1367-4811},
     doi = {10.1093/bioinformatics/btaf016},
-    url = {https://doi.org/10.1093/bioinformatics/btaf016},
+    url = {https://doi.org/10.1093/bioinformatics/btaf016}
 }
 ```
 
