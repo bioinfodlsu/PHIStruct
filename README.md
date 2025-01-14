@@ -30,6 +30,8 @@ If you find our work useful, please consider citing:
 }
 ```
 
+You can also find PHIStruct on [bio.tools](https://bio.tools/phiembed).
+
 ## Table of Contents
 
 - [📰 News](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-news)
