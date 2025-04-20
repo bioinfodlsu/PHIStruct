@@ -45,7 +45,7 @@ You can also find PHIStruct on [bio.tools](https://bio.tools/phistruct).
 ## 📰 News
 
 - **13 Jan 2025** - Our [paper](https://doi.org/10.1093/bioinformatics/btaf016) is now published in _**Bioinformatics**_.
-- **06 Nov 2024** - We presented our work at the **2024 Australian Bioinformatics and Computational Biology Society (ABACBS) National Conference** in Sydney. Poster [here](https://drive.google.com/file/d/1_IEL9WibxHFAjiMW-UmLa2X7G5Kvq4WQ/view?usp=sharing).
+- **06 Nov 2024** - We presented our work at the **2024 Australian Bioinformatics and Computational Biology Society (ABACBS) National Conference** in Sydney.
 
 ## ♾️ Run on Google Colab
 
