@@ -26,3 +26,4 @@ dependencies:
           - lmdb==1.4.1
           - torchmetrics==0.9.3
           - fair-esm==2.0.0
+          - protobuf<=3.20.1
