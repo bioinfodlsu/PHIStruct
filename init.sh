@@ -1,4 +1,6 @@
-#!/bin/bash -e
+#!/bin/bash
+
+set -euo pipefail
 
 if [ -d SaProt ]; then
     echo "It seems that you have already run this installation script before. You only need to run this script once."
