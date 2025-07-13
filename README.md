@@ -35,7 +35,6 @@ You can also find PHIStruct on [bio.tools](https://bio.tools/phistruct).
 ## Table of Contents
 
 - [📰 News](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-news)
-- [♾️ Run on Google Colab](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#%EF%B8%8F-run-on-google-colab)
 - [🚀 Installation & Usage](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-installation--usage)
 - [📚 Description](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-description)
 - [🔬 Dataset of Predicted Structures of Receptor-Binding Proteins](https://github.com/bioinfodlsu/PHIStruct?tab=readme-ov-file#-dataset-of-predicted-structures-of-receptor-binding-proteins)
@@ -46,12 +45,6 @@ You can also find PHIStruct on [bio.tools](https://bio.tools/phistruct).
 
 - **13 Jan 2025** - Our [paper](https://doi.org/10.1093/bioinformatics/btaf016) is now published in _**Bioinformatics**_.
 - **06 Nov 2024** - We presented our work at the **2024 Australian Bioinformatics and Computational Biology Society (ABACBS) National Conference** in Sydney. Conference booklet [here](https://static1.squarespace.com/static/5423875be4b03f0c482a58c4/t/672808c7ecb7533749253c43/1741660231462/ABACBS_2024.pdf).
-
-## ♾️ Run on Google Colab
-
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://phistruct.bioinfodlsu.com)
-
-**You can readily run PHIStruct on Google Colab, without the need to install anything on your own computer: [http://phistruct.bioinfodlsu.com](http://phistruct.bioinfodlsu.com)**
 
 ## 🚀 Installation & Usage
 
