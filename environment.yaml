@@ -17,11 +17,12 @@ dependencies:
           - torchvision==0.14.1+cu117
           - torchaudio==0.13.1
           - pytorch-lightning==1.8.3
-          - wandb
+          - wandb==0.12.10
           - transformers==4.28.0
-          - easydict
-          - scipy
-          - peft
-          - lmdb
+          - easydict==1.10
+          - biopython==1.81
+          - scipy==1.14.1
+          - peft==0.10.0
+          - lmdb==1.4.1
           - torchmetrics==0.9.3
-          - fair-esm
+          - fair-esm==2.0.0
